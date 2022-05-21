@@ -1,0 +1,20 @@
+git status
+git init 
+git add . && git commit -m "primer y funcional app usa fir file"
+git status
+curl -u vpineda7:%tokenGithub% https://api.github.com/user/repos -d "{\"name\":\"practica01b-EV04-ETPS3\"}"
+doskey /h >> 21-05-22.txt
+ls
+ll
+cat 21-05-22.txt
+curl -u vpineda7:%tokenGithub% https://api.github.com/user/repos -d "{\"name\":\"practica01b-EV04-ETPS3\"}"
+explorer . 
+doskey /h >> 21-05-22.txt
+ls
+ll
+cat 21-05-22.txt
+curl -u vpineda7:%tokenGithub% https://api.github.com/user/repos -d "{\"name\":\"practica01b-EV04-ETPS3\"}"
+explorer . 
+doskey /h >> 21-05-22.txt
+cat 21-05-22.txt
+doskey /h >> 21-05-22.txt
